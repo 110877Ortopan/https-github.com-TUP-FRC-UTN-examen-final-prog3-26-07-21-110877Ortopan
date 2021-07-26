@@ -1,0 +1,76 @@
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.csprojAssemblyReference.cache
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.AssemblyInfoInputs.cache
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.AssemblyInfo.cs
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.csproj.CoreCompileInputs.cache
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\appsettings.json
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.exe
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.deps.json
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.runtimeconfig.json
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.runtimeconfig.dev.json
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\ref\FinalAPI.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.pdb
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Npgsql.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\staticwebassets\FinalAPI.StaticWebAssets.Manifest.cache
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\staticwebassets\FinalAPI.StaticWebAssets.xml
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\scopedcss\bundle\FinalAPI.styles.css
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.RazorTargetAssemblyInfo.cache
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.csproj.CopyComplete
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\ref\FinalAPI.dll
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.pdb
+C:\Facu\Facu2021\ProgramacionIII\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.genruntimeconfig.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.exe
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.deps.json
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.runtimeconfig.json
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.runtimeconfig.dev.json
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\ref\FinalAPI.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\FinalAPI.pdb
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Npgsql.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.csprojAssemblyReference.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.AssemblyInfoInputs.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.AssemblyInfo.cs
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.csproj.CoreCompileInputs.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\staticwebassets\FinalAPI.StaticWebAssets.Manifest.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\staticwebassets\FinalAPI.StaticWebAssets.xml
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\scopedcss\bundle\FinalAPI.styles.css
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.csproj.CopyComplete
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\ref\FinalAPI.dll
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.pdb
+C:\Users\gama3\OneDrive\Escritorio\Nueva carpeta\https-github.com-TUP-FRC-UTN-examen-final-prog3-26-07-21-110877Ortopan\FinalOrtopanProIII\FinalBack\FinalAPI\obj\Debug\net5.0\FinalAPI.genruntimeconfig.cache

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="es">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+    <title>Index</title>
+  </head>
+
+
+  <body>
+    <section>
+    <div class="container-fluid py-3" >
+        <div class="container text-center">
+    <h1 class="bg-green">Listados</h1>
+       </div>
+    </div>
+  </section>
+
+  <section> 
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <h3>PROGRAMACION III</h3>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+  <div class="container-fluid bg-light py-1">
+      <div class="container text-dark">
+          <h5 class="display-3">Listado</h5>
+      </div>
+  </div>
+</div>
+<br>
+
+<!-- Tabla -->
+<div class="container">
+  <div class="row">
+      <div class="col-lg-6">
+          <div class="table table-bordered table-striped">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th data-field="id" scope = "col">Id</th>
+                  <th data-field="id" scope = "col">Modelo</th>
+                  <th data-field="id" scope = "col">Color</th>
+                  <th data-field="id" scope = "col">Precio</th>
+                  <th data-field="id" scope = "col">Tipo</th>
+                  <th data-field="id" scope = "col">Marca</th>
+                  <th data-field="id" scope = "col">Estado</th>
+                </tr>
+              </thead>
+              <thead>
+
+              </thead>
+            </table>
+               <thead id="cuerpotabla">
+          </div>
+
+      </div>
+
+  </div>
+
+</div>
+</section>
+    
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<script>
+     $( document ).ready(function() {
+            $.ajax({
+            url: "https://localhost:5001/Vehiculo/ObtenerVehiculo",
+            type: "GET",
+            success: function(result) {
+                if(result.ok){
+                    creartabla(result.return);
+                }
+                else{
+                    Swal.fire(result.error);
+                }
+            
+            },
+            error: function(error) {
+            console.log(error);}
+            });
+
+           
+
+        });
+        function creartabla(datos){
+            for(var i=0; i < datos.length; i++){
+                var html = "<tr>";
+                    html += "<td>" + datos[i].id + "</td>";
+                    html += "<td>" + datos[i].modelo + "</td>";
+                    html += "<td>" + datos[i].color + "</td>";
+                    html += "<td>" + datos[i].precio + "</td>";
+                    html += "<td>" + datos[i].IdTipo + "</td>";
+                    html += "<td>" + datos[i].IdMarca + "</td>";
+
+					
+                    if(datos[i].estado){
+                        html += "<td>" + "SI" + "</td>";
+                    }
+                    else{
+                        html += "<td>" + "NO" + "</td>";
+                    }
+					
+                    html += "</tr>";
+                    $("#cuerpotabla").append(html);
+            }
+        }
+    
+
+
+</script>
+
+
+
+
+</body>
+<br>
+<br>
+<br>
+
+<foster> 110788 Alejandra Ortopan </foster>
+
+</html>
+
